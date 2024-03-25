@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ThaiLocalization.dll",
+  "author": "Harufu",
+  "name": "ThaiLocalization",
+  "uniqueName": "Harufu.ThaiLocalization",
+  "version": "0.1.1",
+  "owmlVersion": "2.9.8",
+  "dependencies": [
+    "xen.LocalizationUtility"
+  ]
+}
